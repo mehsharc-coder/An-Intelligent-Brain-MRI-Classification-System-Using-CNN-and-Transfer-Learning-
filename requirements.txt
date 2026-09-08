@@ -1,0 +1,2 @@
+tensorflow numpy pandas matplotlib scikit-learn kagglehub
+ipywidgets
